@@ -52,7 +52,7 @@
         margin-left: 285px;
     }
 }
-@media screen and (max-width:428px){
+@media screen and (max-width:412px){
     nav{
         width: 200%;
         height: 18vh;
